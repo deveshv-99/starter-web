@@ -9,7 +9,7 @@
 ff
     <name>
 
-# TECHNOLOGY COLOPHON
+s# TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
